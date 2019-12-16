@@ -1,0 +1,7 @@
+{
+"token":"token",
+"prefix":"prefix",
+"staffrole":"role",
+"adminrole":"role",
+"supportid":"id van de supportrole"
+}
